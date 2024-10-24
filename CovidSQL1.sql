@@ -13,7 +13,7 @@ SELECT location, date, total_cases, new_cases, total_deaths, population
 FROM SQLTutorial..CovidDeaths
 order by 1,2
 
--- Looking at Total Cases vs Total Deaths. since total_cases is nvarcher chnage to float.
+-- Looking at Total Cases vs Total Deaths. since total_cases is nvarcher change to float.
 
 SELECT location, date, total_cases, total_deaths, (CAST(total_deaths AS FLOAT) / CAST(total_cases AS FLOAT)) * 100 AS DeathPercentage
 FROM SQLTutorial..CovidDeaths
