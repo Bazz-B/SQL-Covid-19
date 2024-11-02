@@ -1,6 +1,6 @@
 # COVID19 Vaccination Impact Analysis
 
-Analyzing the Impact of COVID-19 Vaccinations on Mortality Rates: Using SQL and Tableau
+Analyzing the Impact of COVID-19 Vaccinations on Mortality Rates: Using SQL
 
 # OBJECTIVE
 
