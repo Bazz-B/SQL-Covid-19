@@ -3,7 +3,19 @@
 Analyzing the Impact of COVID-19 Vaccinations on Mortality Rates: Using SQL and Tableau
 
 # OBJECTIVE
-1. To investigate the correlation between COVID-19 vaccination rates and mortality rates across different regions and periods using SQL for data analysis.
-2. Shows the total death according to locations and find the highest infection location.
-3. Investigate the total death based on location and continent
-4. Analyst the data by total population and total vaccinations people
+
+1. Correlation Analysis
+
+  Investigate the correlation between COVID-19 vaccination rates and mortality rates across different regions and time periods using SQL.
+
+2. Mortality by Location
+
+  Analyze total deaths by location and identify the regions with the highest infection rates.
+
+3. Continental Death Analysis
+
+  Assess total deaths across different locations and continents for comparative insights.
+
+4. Population and Vaccination Analysis
+
+  Examine the data by comparing total population figures to the number of people vaccinated.
